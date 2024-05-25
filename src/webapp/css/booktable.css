@@ -1,0 +1,128 @@
+.menu-photo{
+    height: 200px;
+    width: 100%;
+    background-origin: border-box;
+     background-image: url('about-back-2.jpg');
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover; 
+     margin: 0px;
+     padding: 0px;
+     opacity: 0.9;
+}
+.menu-photo {
+    
+    top: 50%;
+    left:500px;
+    color: #fff;
+    text-align: center;
+
+}
+
+ .menu-photo h1{
+    margin: 0px;
+    font-size: 50px;
+    color: #c2852a;
+    display: inline-block;
+    font-family: 'Raleway', sans-serif;
+    /* font-weight: bold; */
+    font-size: 40px;
+    letter-spacing: 0.3px;
+    line-height: 65px;
+    margin-top: 0;
+    margin-bottom: 11px;
+    text-align: center;
+    padding-top: 20px;
+    padding-right: 150px;
+    
+}
+.menu-list
+{
+    padding-right: 150px;
+    margin: 0px;
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    padding-left: 600px;
+    font-size: 25px;
+}
+.menu-list-1{
+    float: left;
+    font-weight: bolder;
+    
+}
+.menu-list-2{
+    float: left;
+    color:black;
+    font-weight: bolder;
+}
+.image{
+     height: 300px;
+     width: 100%;
+     margin-left: 1100px;
+}
+.booktable-text{
+    height:650px;
+    width: 700px;
+    margin: auto;
+    padding: 23px 20px;
+    background: #181818;
+    margin: auto;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    z-index: 9;
+
+
+}
+ .booktable-text .booktable-text-1{
+    height:500px ;
+    width: 500px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    border: 2px solid white;
+    padding:50px 100px 100px 100px;
+}
+.booktable-text-1 button{
+     height: 50px;
+     width: 100px;
+     background-color: #c2852a;
+     color: white;
+}
+.contac{
+    height: 700px;
+    width: 1500px;
+    background-image: url('contac.jpg');
+    background-size:1500px 550px;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.7px;
+}
+.contac-1{
+    padding-top: 120px;
+    padding-left: 200px;
+    height:200px ;
+    width: 250px;
+    float: left;
+}
+.contac-1 h2{
+    color: white; 
+    font-size: 30px; 
+    text-align: center;
+
+}
+.contac-1 p{
+    color: white; 
+    font-size: 25px; 
+    text-align: center;
+}
+.backgraound{
+    height: 1296px;
+    width: 100%;
+    background-image: url('last-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+    opacity: 0.990;
+}

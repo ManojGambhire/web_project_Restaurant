@@ -1,0 +1,160 @@
+.contact-photo{
+    height: 200px;
+    width: 100%;
+    background-origin: border-box;
+     background-image: url('about-back-2.jpg');
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover; 
+     margin: 0px;
+     padding: 0px;
+     opacity: 0.9;
+}
+.contact-photo {
+    
+    top: 50%;
+    left:500px;
+    color: #fff;
+    text-align: center;
+
+}
+
+ .contact-photo h1{
+    margin: 0px;
+    font-size: 50px;
+    color: #c2852a;
+    display: inline-block;
+    font-family: 'Raleway', sans-serif;
+    /* font-weight: bold; */
+    font-size: 40px;
+    letter-spacing: 0.3px;
+    line-height: 65px;
+    margin-top: 0;
+    margin-bottom: 11px;
+    text-align: center;
+    padding-top: 20px;
+    padding-right: 150px;
+    
+}
+.contact-list
+{
+    padding-right: 150px;
+    margin: 0px;
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    padding-left: 600px;
+    font-size: 25px;
+}
+.contact-list-1{
+    float: left;
+    font-weight: bolder;
+    
+}
+.contact-list-2{
+    float: left;
+    color:black;
+    font-weight: bolder;
+}
+
+.contact-photos{
+      height: 320px;
+      width: 1500px;
+      margin-left: 20px;
+}
+
+.contact-photos-1{
+    height:300px ;
+    width: 350px ;
+    float: left;
+    
+}
+
+.lable{
+    height: 20px;
+    width: 1500px;
+}
+.lable-1{
+    height: 100px;
+    width: 350px;
+    float: left;
+}
+.lable-1 button{
+    height: 40px;
+    width: 170px;
+    text-align: center;
+    margin-left: 80px;
+    font-size: 20px;
+    background-color: #c2852a;
+    font-weight: bolder;
+}
+.contac{
+    height: 700px;
+    width: 1500px;
+    background-image: url('contac.jpg');
+    background-size:1500px 550px;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.7px;
+}
+.contac-1{
+    padding-top: 120px;
+    padding-left: 200px;
+    height:200px ;
+    width: 250px;
+    float: left;
+}
+.contac-1 h2{
+    color: white; 
+    font-size: 30px; 
+    text-align: center;
+
+}
+.contac-1 p{
+    color: white; 
+    font-size: 25px; 
+    text-align: center;
+}
+.contact-text{
+     height: 850px;
+     width: 1520px;
+     margin-left:20px ;
+}
+.contact-text-1
+{
+      height: 800px;
+      width: 750px;
+      float: left;
+      border: 2px solid black;
+
+}
+.contact-text-1 input{
+      height: 40px;
+      width: 230px;
+      margin: 30px 90px 20px 30px;
+      border-radius: 10px;
+}
+
+.contact-text-1 textarea{
+    height: 300px;
+    width: 700px;
+    margin: 10px 30px 30px 30px;
+}
+.contact-text-1 button{
+    height: 40px;
+    width: 230px;
+    margin: 30px 90px 20px 250px;
+    border-radius: 10px;
+    background-color: #c2852a;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    
+}
+.contact-text-2
+{
+      height: 800px;
+      width: 750px;
+      float: left;
+      
+}

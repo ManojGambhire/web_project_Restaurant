@@ -1,0 +1,25 @@
+.top_cat{
+    border:0px solid black;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.top_cat_pro{
+    border:0px solid red;
+    width:300px;
+    height: 270px;
+    float:left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow:5px 5px 3px black;
+    transition: transform 1s;
+}
+.top_cat_pro:hover
+{
+    transform: scale(1.1);
+}
+.title p{
+    text-align:center;
+    font-size: 18px;
+}
